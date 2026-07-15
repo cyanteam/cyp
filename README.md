@@ -38,7 +38,7 @@ Windows PowerShell:
 Invoke-WebRequest -Uri https://cyp.cyteam.cc.cd/install.ps1 -OutFile install.ps1; .\install.ps1
 ```
 
-或者用 npm:
+~~或者用 npm~~ 好吧暂时还不能用:
 
 ```
 npm install -g cyp
@@ -267,7 +267,6 @@ chrome-150.0.7871.124-win64.cyp
 ## 相关链接
 
 - 网站: https://cyp.cyteam.cc.cd
-- 管理面板: https://cyp.cyteam.cc.cd/admin
 
 ## 联系
 
